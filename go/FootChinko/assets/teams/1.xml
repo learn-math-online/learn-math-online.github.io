@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:d4a899930faf4ddac54211b4fb823647:1bb7c239c491406a33ef5fa939a20bd2:8a3d1300b8b633a871e4b7a0741c85fc$ -->
+<TextureAtlas imagePath="1.png">
+    <SubTexture name="bumper_0001" x="577" y="821" width="122" height="122"/>
+    <SubTexture name="bumper_0002" x="509" y="699" width="122" height="122"/>
+    <SubTexture name="bumper_0003" x="387" y="699" width="122" height="122"/>
+    <SubTexture name="centrocampista_0001" x="375" y="507" width="192" height="192"/>
+    <SubTexture name="centrocampista_0002" x="365" y="193" width="192" height="192"/>
+    <SubTexture name="centrocampista_0003" x="769" y="1" width="192" height="192"/>
+    <SubTexture name="centrocampista_0004" x="375" y="1" width="192" height="192"/>
+    <SubTexture name="centrocampista_0005" x="577" y="1" width="192" height="192"/>
+    <SubTexture name="centrocampista_0006" x="183" y="565" width="192" height="192"/>
+    <SubTexture name="delantero_0001" x="183" y="283" width="182" height="282"/>
+    <SubTexture name="delantero_0002" x="183" y="1" width="182" height="282"/>
+    <SubTexture name="delantero_0003" x="1" y="565" width="182" height="282"/>
+    <SubTexture name="delantero_0004" x="1" y="283" width="182" height="282"/>
+    <SubTexture name="delantero_0005" x="1" y="1" width="182" height="282"/>
+    <SubTexture name="duck_idle_0" x="567" y="193" width="102" height="83"/>
+    <SubTexture name="duck_idle_1" x="699" y="193" width="102" height="83"/>
+    <SubTexture name="duck_on_goal" x="285" y="757" width="102" height="83"/>
+    <SubTexture name="duck_on_save" x="183" y="757" width="102" height="83"/>
+    <SubTexture name="portero_0001" x="365" y="385" width="192" height="122"/>
+    <SubTexture name="portero_0002" x="385" y="840" width="192" height="122"/>
+    <SubTexture name="portero_0003" x="193" y="840" width="192" height="122"/>
+    <SubTexture name="portero_0004" x="1" y="847" width="192" height="122"/>
+</TextureAtlas>

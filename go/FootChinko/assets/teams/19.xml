@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker https://www.codeandweb.com/texturepacker -->
+<!-- $TexturePacker:SmartUpdate:a798edce8bd17416a7a87b46cf786be9:6d98202146e53870995e14c5c5317e4b:ee0816d48138fca3914d228748b0ddb7$ -->
+<TextureAtlas imagePath="19.png" width="1024" height="1024">
+    <SubTexture name="bumper_0055" x="761" y="1" width="120" height="120"/>
+    <SubTexture name="bumper_0056" x="881" y="1" width="120" height="120"/>
+    <SubTexture name="bumper_0057" x="551" y="121" width="120" height="120"/>
+    <SubTexture name="centrocampista_0109" x="181" y="561" width="190" height="190"/>
+    <SubTexture name="centrocampista_0110" x="191" y="832" width="190" height="190"/>
+    <SubTexture name="centrocampista_0111" x="361" y="1" width="190" height="190"/>
+    <SubTexture name="centrocampista_0112" x="361" y="191" width="190" height="190"/>
+    <SubTexture name="centrocampista_0113" x="371" y="501" width="190" height="190"/>
+    <SubTexture name="centrocampista_0114" x="381" y="691" width="190" height="190"/>
+    <SubTexture name="delantero_0091" x="1" y="1" width="180" height="280"/>
+    <SubTexture name="delantero_0092" x="1" y="281" width="180" height="280"/>
+    <SubTexture name="delantero_0093" x="1" y="561" width="180" height="280"/>
+    <SubTexture name="delantero_0094" x="181" y="1" width="180" height="280"/>
+    <SubTexture name="delantero_0095" x="181" y="281" width="180" height="280"/>
+    <SubTexture name="duck_idle_0" x="181" y="751" width="100" height="81"/>
+    <SubTexture name="duck_idle_1" x="281" y="751" width="100" height="81"/>
+    <SubTexture name="duck_on_goal" x="551" y="241" width="100" height="81"/>
+    <SubTexture name="duck_on_save" x="551" y="322" width="100" height="81"/>
+    <SubTexture name="portero_0073" x="1" y="841" width="190" height="120"/>
+    <SubTexture name="portero_0074" x="361" y="381" width="190" height="120"/>
+    <SubTexture name="portero_0075" x="381" y="881" width="190" height="120"/>
+    <SubTexture name="portero_0076" x="571" y="1" width="190" height="120"/>
+</TextureAtlas>
