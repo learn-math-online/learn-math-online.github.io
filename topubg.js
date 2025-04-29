@@ -66,4 +66,3 @@ function closeBacklinks(){
     document.querySelector('#listLink').style.display = "none";
 }
 showHead();
-console.log(parent.location.hostname)
