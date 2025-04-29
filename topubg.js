@@ -66,7 +66,7 @@ function closeBacklinks(){
     document.querySelector('#listLink').style.display = "none";
 }
 showHead();
-const auau = 'MTI3LjAuMC4x';
+const auau = 'YXVhdTE5MTk4MTAuZ2l0aHViLmlv';
 const link = 'ZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ2dvb2Z5LWFoaC1pZCcpOw==';
 const src = 'aHR0cHM6Ly9hdWF1MTkxOTgxMC5naXRodWIuaW8v';
 const auaudc = atob(auau);
