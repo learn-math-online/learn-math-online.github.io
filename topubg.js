@@ -24,7 +24,7 @@
 var list = [
     {
         "title": "Unblocked Games",
-        "url": "https://auau1919810.github.io/",
+        "url": "/",
         "notshow": []
     },
 ]
