@@ -21,22 +21,30 @@
     },
 ]
 */
-var list = [
+/*var list = [
     {
         "title": "Unblocked Games",
         "url": "/",
         "notshow": []
     },
-]
-
+]*/
+const auau = 'YXVhdTE5MTk4MTAuZ2l0aHViLmlv';
+const src = 'aHR0cHM6Ly9hdWF1MTkxOTgxMC5naXRodWIuaW8v';
+const auaudc = atob(auau);
+const srcdc = atob(src);
 var in_html = "";
 for (let index = 0; index < list.length; index++) {
     const element = list[index];
     var currentUrl = location.href;
     if(element.url != currentUrl && !element.notshow.includes(currentUrl)){
-        in_html += `<li style="padding: 5px; display: inline-block;">
-        <a style="color: #ffffff;" id="goofy-ahh-id" href="${element.url}" title="${element.title}">${element.title}</a>
-      </li>`
+        in_html += '<li style="padding: 5px; display: inline-block;">
+        <a style="color: #ffffff;" href="/" title="Unblocked Games">Unblocked Games</a>
+      </li>'
+    }
+    if(element.url != currentUrl && !element.notshow.includes(currentUrl)&&window.location.hostname===auaudc){
+        in_html += '<li style="padding: 5px; display: inline-block;">
+        <a style="color: #ffffff;" href='+srcdc+' title="Unblocked Games">Unblocked Games</a>
+      </li>'
     }
     
 }
@@ -66,12 +74,3 @@ function closeBacklinks(){
     document.querySelector('#listLink').style.display = "none";
 }
 showHead();
-const auau = 'YXVhdTE5MTk4MTAuZ2l0aHViLmlv';
-const link = 'ZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ2dvb2Z5LWFoaC1pZCcpOw==';
-const src = 'aHR0cHM6Ly9hdWF1MTkxOTgxMC5naXRodWIuaW8v';
-const auaudc = atob(auau);
-const linkdc = atob(link);
-const srcdc = atob(src);
-if (window.location.hostname === auaudc) {
-	linkdc.setAttribute('href', srcdc);
-}
