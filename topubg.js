@@ -28,19 +28,15 @@ var list = [
         "notshow": []
     },
 ]
-const auau = 'YXVhdTE5MTk4MTAuZ2l0aHViLmlv';
-const src = 'aHR0cHM6Ly9hdWF1MTkxOTgxMC5naXRodWIuaW8v';
-const auaudc = atob(auau);
-const srcdc = atob(src);
+
 var in_html = "";
 for (let index = 0; index < list.length; index++) {
     const element = list[index];
     var currentUrl = location.href;
     if(element.url != currentUrl && !element.notshow.includes(currentUrl)){
-        in_html += '<li style="padding: 5px; display: inline-block;"><a style="color: #ffffff;" href="/" title="Unblocked Games">Unblocked Games</a></li>'
-    }
-    if(element.url != currentUrl && !element.notshow.includes(currentUrl)&&window.location.hostname===auaudc){
-        in_html += '<li style="padding: 5px; display: inline-block;"><a style="color: #ffffff;" href='+srcdc+' title="Unblocked Games">Unblocked Games</a></li>'
+        in_html += `<li style="padding: 5px; display: inline-block;">
+        <a style="color: #ffffff;" href="${element.url}" title="${element.title}">${element.title}</a>
+      </li>`
     }
     
 }
