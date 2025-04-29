@@ -35,7 +35,7 @@ for (let index = 0; index < list.length; index++) {
     var currentUrl = location.href;
     if(element.url != currentUrl && !element.notshow.includes(currentUrl)){
         in_html += `<li style="padding: 5px; display: inline-block;">
-        <a style="color: #ffffff;" href="${element.url}" title="${element.title}">${element.title}</a>
+        <a style="color: #ffffff;" id="goofy-ahh-id" href="${element.url}" title="${element.title}">${element.title}</a>
       </li>`
     }
     
