@@ -21,13 +21,13 @@
     },
 ]
 */
-/*var list = [
+var list = [
     {
         "title": "Unblocked Games",
         "url": "/",
         "notshow": []
     },
-]*/
+]
 const auau = 'YXVhdTE5MTk4MTAuZ2l0aHViLmlv';
 const src = 'aHR0cHM6Ly9hdWF1MTkxOTgxMC5naXRodWIuaW8v';
 const auaudc = atob(auau);
