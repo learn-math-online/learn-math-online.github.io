@@ -37,8 +37,7 @@ for (let index = 0; index < list.length; index++) {
     const element = list[index];
     var currentUrl = location.href;
     if(element.url != currentUrl && !element.notshow.includes(currentUrl)){
-        in_html += '<li style="padding: 5px; display: inline-block;"><a style="color: #ffffff;" href="/" title="Unblocked Games">Unblocked Games</a>
-</li>'
+        in_html += '<li style="padding: 5px; display: inline-block;"><a style="color: #ffffff;" href="/" title="Unblocked Games">Unblocked Games</a></li>'
     }
     if(element.url != currentUrl && !element.notshow.includes(currentUrl)&&window.location.hostname===auaudc){
         in_html += '<li style="padding: 5px; display: inline-block;"><a style="color: #ffffff;" href='+srcdc+' title="Unblocked Games">Unblocked Games</a></li>'
