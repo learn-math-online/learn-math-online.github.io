@@ -397,7 +397,7 @@ const fftSize=this._node["fftSize"];this._peak=0;let rmsSquaredSum=0;for(let i=0
                     })
                     .catch(() => {
                         console.log("Initialized, but the user likely has adblock");
-                        adBlock = false;
+                        adBlock = true;
                         return { loaded: this._pokiSDKLoaded, adBlock: adBlock };
                     })
                     .finally(() => {

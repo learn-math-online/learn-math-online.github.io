@@ -272,7 +272,7 @@ err);return false}}};self.RuntimeInterface.AddDOMHandlerClass(HANDLER_CLASS)};
                     })
                     .catch(() => {
                         console.log("Initialized, but the user likely has adblock");
-                        adBlock = false;
+                        adBlock = true;
                         return { loaded: this._pokiSDKLoaded, adBlock: adBlock };
                     })
                     .finally(() => {
