@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:46589ff1c3301511c65c191d83379a39:3cba14c229379247566e4bcb84096759:b91c13ffbbbb04435dcb2ad24a1a11b5$ -->
+<TextureAtlas imagePath="39.png">
+    <SubTexture name="bumper_0115" x="1" y="245" width="122" height="122"/>
+    <SubTexture name="bumper_0116" x="385" y="123" width="122" height="122"/>
+    <SubTexture name="bumper_0117" x="385" y="1" width="122" height="122"/>
+    <SubTexture name="duck_idle_0" x="205" y="328" width="102" height="83"/>
+    <SubTexture name="duck_idle_1" x="123" y="245" width="102" height="83"/>
+    <SubTexture name="duck_on_goal" x="103" y="367" width="102" height="83"/>
+    <SubTexture name="duck_on_save" x="1" y="367" width="102" height="83"/>
+    <SubTexture name="portero_0153" x="193" y="123" width="192" height="122"/>
+    <SubTexture name="portero_0154" x="1" y="123" width="192" height="122"/>
+    <SubTexture name="portero_0155" x="193" y="1" width="192" height="122"/>
+    <SubTexture name="portero_0156" x="1" y="1" width="192" height="122"/>
+</TextureAtlas>

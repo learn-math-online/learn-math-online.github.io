@@ -1,0 +1,290 @@
+{
+    "c2array": true,
+    "size": [
+        5,
+        18,
+        1
+    ],
+    "data": [
+        [
+            [
+                "Unique Click"
+            ],
+            [
+                "Nova Atom"
+            ],
+            [
+                "Multiple Click"
+            ],
+            [
+                "Nova Molecule "
+            ],
+            [
+                "Expert Clicker"
+            ],
+            [
+                "Nova Spaceship"
+            ],
+            [
+                "Nova Booster"
+            ],
+            [
+                "Nova Bomb"
+            ],
+            [
+                "Nova Virus"
+            ],
+            [
+                "Nova Asteroid"
+            ],
+            [
+                "Earth Destroyer "
+            ],
+            [
+                "Nova Fantasy"
+            ],
+            [
+                "Big Bang"
+            ],
+            [
+                "Intergalactic"
+            ],
+            [
+                "Nova Fuel "
+            ],
+            [
+                "Black Hole"
+            ],
+            [
+                "Nova Portals"
+            ],
+            [
+                "Nova Producer "
+            ]
+        ],
+        [
+            [
+                "+1 nova per click"
+            ],
+            [
+                "+1 nova per second"
+            ],
+            [
+                "+5 nova's per click"
+            ],
+            [
+                "+6 nova's per second"
+            ],
+            [
+                "+100 nova's per click"
+            ],
+            [
+                "+200 nova's per second"
+            ],
+            [
+                "+1000 nova's  per click"
+            ],
+            [
+                "+5000 nova's per second"
+            ],
+            [
+                "+9000 nova's per click"
+            ],
+            [
+                "+100000 nova's per second"
+            ],
+            [
+                "+25000 nova's per click"
+            ],
+            [
+                "+200000 nova's per second"
+            ],
+            [
+                "+100000 nova's per click"
+            ],
+            [
+                "+250000 nova's per second"
+            ],
+            [
+                "+200000 nova's per click"
+            ],
+            [
+                "+500000 nova's per second"
+            ],
+            [
+                "+400000 nova's per click"
+            ],
+            [
+                "+1000000 nova's per second"
+            ]
+        ],
+        [
+            [
+                50
+            ],
+            [
+                125
+            ],
+            [
+                500
+            ],
+            [
+                1100
+            ],
+            [
+                12000
+            ],
+            [
+                100000
+            ],
+            [
+                120000
+            ],
+            [
+                315000
+            ],
+            [
+                22000000
+            ],
+            [
+                81000000
+            ],
+            [
+                300000000
+            ],
+            [
+                900000000
+            ],
+            [
+                1800000000
+            ],
+            [
+                3000000000
+            ],
+            [
+                2000000000000
+            ],
+            [
+                30000000000000
+            ],
+            [
+                1000000000000000
+            ],
+            [
+                10000000000000000
+            ]
+        ],
+        [
+            [
+                "click"
+            ],
+            [
+                "autoclick"
+            ],
+            [
+                "click"
+            ],
+            [
+                "autoclick"
+            ],
+            [
+                "click"
+            ],
+            [
+                "autoclick"
+            ],
+            [
+                "click"
+            ],
+            [
+                "autoclick"
+            ],
+            [
+                "click"
+            ],
+            [
+                "autoclick"
+            ],
+            [
+                "click"
+            ],
+            [
+                "autoclick"
+            ],
+            [
+                "click"
+            ],
+            [
+                "autoclick"
+            ],
+            [
+                "click"
+            ],
+            [
+                "autoclick"
+            ],
+            [
+                "autoclick"
+            ],
+            [
+                "autoclick"
+            ]
+        ],
+        [
+            [
+                1
+            ],
+            [
+                1
+            ],
+            [
+                5
+            ],
+            [
+                6
+            ],
+            [
+                100
+            ],
+            [
+                200
+            ],
+            [
+                1000
+            ],
+            [
+                5000
+            ],
+            [
+                9000
+            ],
+            [
+                100000
+            ],
+            [
+                25000
+            ],
+            [
+                200000
+            ],
+            [
+                100000
+            ],
+            [
+                250000
+            ],
+            [
+                200000
+            ],
+            [
+                500000
+            ],
+            [
+                400000
+            ],
+            [
+                1000000
+            ]
+        ]
+    ]
+}

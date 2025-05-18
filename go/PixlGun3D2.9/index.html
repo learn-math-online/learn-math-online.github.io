@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en-us">
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<title>Pixl Gun 3D</title>
+		<link rel="shortcut icon" href="TemplateData/1.0_icon.jpg">
+		<link rel="stylesheet" href="TemplateData/style.css">
+		<script src="TemplateData/UnityProgress.js"></script>  
+		<script src="Build/UnityLoader.js"></script>
+		<style>
+			body {
+			margin: 0;
+			padding: 0;
+			}
+			.webgl-content * {
+			border: 0;
+			margin: 0;
+			padding: 0;
+			}
+			.webgl-content {
+			position: fixed;
+			}
+			.webgl-content,
+			#gameContainer,
+			#unityContainer,
+			canvas {
+			width: 100vw !important;
+			height: 100vh !important;
+			}
+		</style>
+		<script>
+			var gameInstance = UnityLoader.instantiate("gameContainer", "Build/pickle.json", {onProgress: UnityProgress});
+			alert('Press F1 to lock mouse cursor');
+		</script>
+	</head>
+	<body>
+		<div class="webgl-content">
+			<div id="gameContainer" style="width: 100vw; height: 100vh; margin: 0px; padding: 0px; border: 0px; position: relative;"></div>
+		</div>
+	</body>
+</html>
